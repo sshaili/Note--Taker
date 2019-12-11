@@ -20,7 +20,6 @@ Shaili Shah |
 click here for Live Demo :  https://github.com/sshaili/Note--Taker
 
 # Heroku link
-
 Click here for the heroku link : https://stormy-taiga-42180.herokuapp.com/
 
 # Assumption
